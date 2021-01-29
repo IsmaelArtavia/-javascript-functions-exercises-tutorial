@@ -90,7 +90,7 @@
         {
             "slug": "06-Anonymous-functions",
             "title": "06-Anonymous-functions",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Anonymous-functions",
             "translations": [
                 "es",
