@@ -46,7 +46,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
